@@ -8,12 +8,12 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+https://xd.adobe.com/view/91d8efe0-e4b8-48a9-5837-f446fed9bc39-e7e9/
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+https://trello.com/invite/b/bsz2wbad/150a780c29f00d2094b77d04264d1365/capstone-project
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+https://github.com/Gandaho000/Capstone.git
